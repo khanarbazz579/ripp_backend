@@ -1,0 +1,15 @@
+**/node_modules
+# file: ~/.gitignore_global
+.env
+.DS_Store
+.idea/*
+config/config.json
+uploads/*
+
+config/config.js
+RippleAPIDeployKey.pem
+
+email-template-uploads/*
+
+coverage/*
+.nyc_output/*

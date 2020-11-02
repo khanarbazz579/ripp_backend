@@ -1,0 +1,22 @@
+{
+    "installed": {
+        "client_id": "958012728335-b6iqtp9fnkrs6hidbseo67rbrk9fsocd.apps.googleusercontent.com",
+        "approval_prompt": "force",
+        "project_id": "quickstart-1549286666740",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "D3OlruP_aM-JZ3F2UC_pXfFh",
+        "redirect_uris": [
+            "https://api.devsubdomain.com/api/mailer/googleauthorize",
+            "http://localhost:3000/api/mailer/googleauthorize"
+            
+        ],
+        "javascript_origins": [
+            "https://api.devsubdomain.com",
+            "http://localhost:3000"
+           
+            
+        ]
+    }
+}
